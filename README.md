@@ -14,4 +14,4 @@
    cl /EHsc /std:c++17 /Fe:CFS23_SaveTool.exe main.cpp
 
 #
-🚀 **Live on GitHub Pages:** [CFS23 Save Tool](https://lexkreyn.github.io/CFS23SaveTool/)
+🚀 **It's based on project:** [CFS23 Save Tool](https://lexkreyn.github.io/CFS23SaveTool/)

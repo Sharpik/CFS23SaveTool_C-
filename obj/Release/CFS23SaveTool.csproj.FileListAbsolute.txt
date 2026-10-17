@@ -1,0 +1,6 @@
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\bin\Release\CFS23SaveTool.exe
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\bin\Release\CFS23SaveTool.pdb
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\obj\Release\CFS23SaveTool.csproj.AssemblyReference.cache
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\obj\Release\CFS23SaveTool.csproj.CoreCompileInputs.cache
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\obj\Release\CFS23SaveTool.exe
+C:\Users\Sharp\Documents\_Programy\CFS23SaveTool\obj\Release\CFS23SaveTool.pdb
