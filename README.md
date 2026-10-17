@@ -9,9 +9,7 @@
 
 ## Installation
 1. Download the latest release
-2. Or compile from source:
-   ```powershell
-   cl /EHsc /std:c++17 /Fe:CFS23_SaveTool.exe main.cpp
+2. Or compile from source
 
 #
 🚀 **It's based on project:** [CFS23 Save Tool](https://lexkreyn.github.io/CFS23SaveTool/)
